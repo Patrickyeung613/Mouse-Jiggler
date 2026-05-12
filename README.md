@@ -20,4 +20,5 @@ Simple Python script that prevents your PC from going idle by moving the mouse a
 
  3. Run the script
 
-How to StopPress Ctrl + C in the terminal, or move your mouse to the top-left corner of the screen.
+## How to Stop
+Press Ctrl + C in the terminal.
