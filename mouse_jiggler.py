@@ -11,11 +11,9 @@ while True:
     # Perform a mouse click
     pyautogui.click()
 
-    # Wait for 5 seconds
     time.sleep(3)
 
     # Move the mouse cursor back to the original position
     pyautogui.moveTo(current_x, current_y)
 
-    # Wait for 5 seconds
     time.sleep(3)
