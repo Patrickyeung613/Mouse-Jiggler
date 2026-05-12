@@ -18,8 +18,6 @@ Simple Python script that prevents your PC from going idle by moving the mouse a
    ```bash
    pip install pyautogui
 
-Run the script:bash
-
-python mouse_jiggler.py
+ 3. Run the script
 
 How to StopPress Ctrl + C in the terminal, or move your mouse to the top-left corner of the screen.
